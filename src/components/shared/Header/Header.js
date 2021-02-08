@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import { Image, Navbar } from "../../../components";
 import { Strings } from "../../../constants";
-import mobileLogo from "../../../assets/svg/TWI logo_white.svg";
+import mobileLogo from "../../../assets/svg/Logomark-01.svg";
 import blueLogo from "../../../assets/svg/Wordmark_blue-02.svg";
 import whiteLogo from "../../../assets/svg/Wordmark_white-02.svg";
 

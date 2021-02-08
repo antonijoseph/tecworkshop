@@ -29,11 +29,11 @@ const WORK_CATEGORIES = {
     ],
     FEATURED_PROJECTS: [
       {
-        IMAGE: require("../assets/images/TWI CAROUSEL 02.jpg"),
+        IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
         TITLE: "JW MARRIOT",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        LINK: "/",
+        LINK: "/work/hospitality/jw-marriot-mumbai",
       },
       {
         IMAGE: require("../assets/images/TWI CAROUSEL 04.jpg"),

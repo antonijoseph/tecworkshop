@@ -3,7 +3,7 @@ import { GOOGLE_DRIVE_URL } from "../constants";
 const WORK_CATEGORIES = {
   HOSPITALITY: {
     BANNER: {
-      IMAGE: GOOGLE_DRIVE_URL + '1JrVV3rbOd0k_f0vW3yqEyuE2sZNyg7l_' ,
+      IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
       TEXT: ["Hospitality", "Serving Loreum ipsum"],
     },
     OFFER: [

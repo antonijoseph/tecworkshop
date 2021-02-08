@@ -6,7 +6,7 @@ import {
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 
-export const GOOGLE_DRIVE_URL = "https://drive.google.com/thumbnail?id=";
+export const GOOGLE_DRIVE_URL = "https://drive.google.com/uc?id=";
 
 const Strings = {
   APPLICATION: {
@@ -34,10 +34,10 @@ const Strings = {
           NAME: "Work",
           LINK: "/work/hospitality",
           CHILD_PAGES: [
-            // {
-            //   NAME: "Hospitality",
-            //   LINK: "/work/hospitality",
-            // },
+            {
+              NAME: "Hospitality",
+              LINK: "/work/hospitality",
+            },
             {
               NAME: "Corporates",
               LINK: "/work/corporates",
@@ -66,10 +66,10 @@ const Strings = {
           NAME: "About",
           LINK: "/about",
         },
-        // {
-        //   NAME: "Hospitality",
-        //   LINK: "/work/hospitality",
-        // },
+        {
+          NAME: "Hospitality",
+          LINK: "/work/hospitality",
+        },
         {
           NAME: "Corporates",
           LINK: "/work/corporates",

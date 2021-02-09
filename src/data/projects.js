@@ -297,7 +297,7 @@ const PROJECTS = [
     ID: "elken",
     TITLE: "Elken",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1iiHftbxlZCtpvBzXywsksENkr68WrfvC",
     DESCRIPTION:
       "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
     IMAGES: [

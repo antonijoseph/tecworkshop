@@ -1,12 +1,5 @@
 import React, { useEffect, useState } from "react";
-import {
-  Banner,
-  Footer,
-  Header,
-  Image,
-  ImageText,
-  ProjectList,
-} from "../..";
+import { Banner, Footer, Header, Image, ImageText, ProjectList } from "../..";
 import { Images } from "../../../constants";
 import { WORK_CATEGORIES } from "../../../data";
 import "./Work.scss";
@@ -55,8 +48,16 @@ const Work = ({ match }) => {
     details.FEATURED_PROJECTS.forEach((item, index) => {
       featuredProjects.push(
         <div className="featured-projects-wrapper" key={index}>
-          <div className="image-wrapper">
-            <Image source={item.IMAGE} altText={item.title} />
+          <div
+            className="image-wrapper"
+            style={{
+              backgroundImage: `url(${item.IMAGE})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+              backgroundRepeat: "no-repeat",
+            }}
+          >
+            {/* <Image source={item.IMAGE} altText={item.title} /> */}
           </div>
           <div className="details">
             <div className="title">{item.TITLE}</div>

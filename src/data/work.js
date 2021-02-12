@@ -66,32 +66,46 @@ const WORK_CATEGORIES = {
         LINK: "/work/hospitality/itc-royalbengal",
       },
       {
-        TITLE: "JW Marriott",
+        TITLE: "Taj GVK",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
-        LINK: "/",
+        IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
+        LINK: "/work/hospitality/taj-gvk",
       },
       {
-        TITLE: "JW Marriott",
+        TITLE: "ITC Welcomhotel",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
-        LINK: "/",
+        IMAGE: GOOGLE_DRIVE_URL + "1EtbjD7PvRYIAuMuJTM4jgZXYj4ZxN0zn",
+        LINK: "/work/hospitality/itc-welcomhotel-bangalore",
       },
       {
-        TITLE: "JW Marriott",
+        TITLE: "Novotel Sipcot",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
-        LINK: "/",
+        IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+        LINK: "/work/hospitality/novotel-sipcot",
       },
       {
-        TITLE: "JW Marriott",
+        TITLE: "The Trident",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
-        LINK: "/",
+        IMAGE: GOOGLE_DRIVE_URL + "1uQjlv1oZFbO98svYhqISOqkvz0k1f5nH",
+        LINK: "/work/hospitality/trident-chennai",
+      },
+      {
+        TITLE: "Taj Mount Road",
+        DESCRIPTION:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        IMAGE: GOOGLE_DRIVE_URL + "1xqNj-XQTQdtugQ34OdWC9zz_1USbqE47",
+        LINK: "/work/hospitality/taj-mountroad",
+      },
+      {
+        TITLE: "Westin Hyderabad",
+        DESCRIPTION:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+        LINK: "/work/hospitality/westin-hyderabad",
       },
     ],
   },

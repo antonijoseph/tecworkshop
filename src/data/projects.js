@@ -501,6 +501,234 @@ const PROJECTS = [
       },
     ],
   },
+  {
+    ID: "westin-hyderabad",
+    TITLE: "The Westin",
+    LOCATION: "Hyderabad, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1MI7d0o6Vzka6HU2ZHymUMEtZaTjJSQdS",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1OD-iUS7zsiw4CYsoSMHgWTAk2Hi7KFaH",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "138mczQsenmzN1HMQyTNiW8KgsDX4uvk1",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
+  {
+    ID: "taj-mountroad",
+    TITLE: "Taj Mount Road",
+    LOCATION: "Chennai, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1kgneXX_FHYkclbp6Colj_zf-DX3DvqJH",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1emNQkuDuJ3VjpfzHm9pgFECgOCrQIb8Z",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1xqNj-XQTQdtugQ34OdWC9zz_1USbqE47",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1qLqtPLVjDur77fOdTo14v9AmnU2p7SaM",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1JAMYmIce7Q35wb9I4GR3kLJ6jpWytJSS",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1Pob8XYB1kl5frVOHzu0eoaseqsIlDMLJ",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1IpI6Zf3-xBBFabd9vSQ4wZMDVrEYimOX",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1wg6YGGU_DOLn0yjx3dsA-LoBan6I00fv",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1iEwLf1AlLazdbabi7lJ4b8pv89IzzP0A",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1D3NXcewSlla3Me9HP-buMyoHIzW-nqH4",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
+  {
+    ID: "taj-gvk",
+    TITLE: "Taj GVK",
+    LOCATION: "Hyderabad, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1qWJ-9YitMtYtjT4TvxrZfTk0HSx-qSHf",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "15tTdnn1R63lJ8lhdOPOIITuaWPYc5G6X",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "17SqsnD0r-sBI3IMoEDHpGa5iiHWDmpZv",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1ceoTKHiFai8LICYMDbTbcSO_G446M9dX",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1zyloQ4T5DvSCpmlseALOlUCJj74soyRG",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "11VIOoxiw_lVZuVDbAOgxMocYdAZwgz1I",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1aJzW7bFunMJwHpg-gWSM6ePIlit_wkGq",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1B5GUNuxYP8_yfQYN9qiD-KfCti3qeybg",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1aRGP2tiYYveLLZMPV38dJCbCKdbCUT-i",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "109-WOgkDLwoVu3rkhvNmtFA6Kb9gjXQ4",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1w7mX4xYXKEiHZ9PV4nsMa4NZS0-orfRv",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
+  {
+    ID: "itc-welcomhotel-bangalore",
+    TITLE: "ITC Welcomhotel",
+    LOCATION: "Bangalore, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1EtbjD7PvRYIAuMuJTM4jgZXYj4ZxN0zn",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1oCr9kGXw-AOPnx8N-Hd09TuY5hA1d_gW",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1e0QtZSO6ka1c7mFaBM-NAMsW5kW7lgFh",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1buZTuCOxy6jWpzueNm7MeqlVom9O6m7t",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1W0GrNTlFp4WEalx1FEmwHE5PfYFJgjPj",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1dbJ_VVDcAfvChV3Nkj7UHkhSy9AXLSyl",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1Vg795N7SkijSCNVGAlG1lCR4sM9nWrVS",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1VL5e3zAe8sMoF2lJEES5q_BqoPFZHFfh",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
+  {
+    ID: "novotel-sipcot",
+    TITLE: "Novotel Sipcot",
+    LOCATION: "Chennai, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1142ULwiRQOlAXLnQaaNiNeMul-UjfG_z",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1mtlzyNXdgnBCEgE8_hoZJXFLbFNoDzs9",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1zv648eeCeBEG-2MDUItGD2wv4H2qXwyn",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
+  {
+    ID: "trident-chennai",
+    TITLE: "The Trident",
+    LOCATION: "Chennai, India",
+    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1uQjlv1oZFbO98svYhqISOqkvz0k1f5nH",
+    DESCRIPTION:
+      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    IMAGES: [
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1HU6YLbEtLxW8LsKkNOcTMX_3hgh4dfQ5",
+        ALT_TEXT: "TWI CAROUSEL 01",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1ivhcgLDpoPtgsEVokqztUp4xUFAXWtgS",
+        ALT_TEXT: "TWI CAROUSEL 02",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1-OETmxPNyjW50E0pkcLe4KLYf5f9vW7v",
+        ALT_TEXT: "TWI CAROUSEL 03",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1hx2wjiWWytNtybcekawA7NitXnVdw8f5",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1qFLqp8X4Za-e3bWYJdKxGDIHBU1lnaWA",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1gl4xJsoW3w63JHMH9cFLaDiZJHmWYkuv",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+      {
+        IMAGE: GOOGLE_DRIVE_URL + "1CL-d7BMMG86ax-bVYZA2zNwbnzLIDZ12",
+        ALT_TEXT: "TWI CAROUSEL 04",
+      },
+    ],
+  },
 ];
 
 export default PROJECTS;

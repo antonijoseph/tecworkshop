@@ -30,10 +30,10 @@ const WORK_CATEGORIES = {
     FEATURED_PROJECTS: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
-        TITLE: "JW MARRIOT",
+        TITLE: "JW MARRIOTT",
         DESCRIPTION:
           "JW Marriott Mumbai Sahar, a 5-star luxury hotel located in Andheri East. The hotel houses 588 rooms and offers a melange of facilities from dining to spaces to conduct social gatherings such as weddings. ",
-        LINK: "/work/hospitality/jw-marriot-mumbai",
+        LINK: "/work/hospitality/jw-marriott-mumbai",
       },
       {
         IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",

@@ -2,8 +2,8 @@ import { GOOGLE_DRIVE_URL } from "../constants";
 
 const PROJECTS = [
   {
-    ID: "jw-marriot-mumbai",
-    TITLE: "JW Marriot",
+    ID: "jw-marriott-mumbai",
+    TITLE: "JW Marriott",
     LOCATION: "Mumbai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
     DESCRIPTION:

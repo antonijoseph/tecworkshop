@@ -503,7 +503,7 @@ const PROJECTS = [
   },
   {
     ID: "westin-hyderabad",
-    TITLE: "The Westin",
+    TITLE: "The Westin Hyderabad Mindspace",
     LOCATION: "Hyderabad, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
     DESCRIPTION:
@@ -574,9 +574,9 @@ const PROJECTS = [
     ],
   },
   {
-    ID: "taj-gvk",
-    TITLE: "Taj GVK",
-    LOCATION: "Hyderabad, India",
+    ID: "taj-clubhouse",
+    TITLE: "Taj Club House",
+    LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
     DESCRIPTION:
       "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",

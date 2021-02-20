@@ -31,7 +31,6 @@ const Home = () => {
           >
             <div className="carousel-text">
               <div className="primary-text">{item.DISPLAY_TEXT[0]}</div>
-              <div className="secondary-text">{item.DISPLAY_TEXT[1]}</div>
             </div>
           </div>
         </SwiperSlide>
@@ -128,15 +127,12 @@ const Home = () => {
       <section className="about home-section" id="about">
         <div className="left-section">
           <div className="title">ABOUT US</div>
-          <div className="subtitle">Our quality is never on accident.</div>
+          <div className="subtitle">Quality that builds trust.</div>
           <p className="description">
-            It is always the result of high intention, sincere effort,
-            intelligent direction and skillful execution; it represents the wise
-            choice of many alternatives.
+            We aim to engineer your dream with our extensive experience and in-depth knowledge in architecture by creating grandeur and timeless interior spaces. We work passionately and put in sincere efforts to fulfill your dream.
           </p>
           <p className="description">
-            Our clients understand this and quality is always delivered to their
-            complete satisfaction.
+            Our strength and belief lie in being resourceful, which makes us anticipate our client’s needs and help us deliver with commitment. We build high customer retention with our clients by delivering value on time without any compromise.
           </p>
           <ImageText
             image={Images.TWI_ASSETS_THREE}

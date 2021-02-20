@@ -18,8 +18,9 @@
         height: 100%;
         z-index: 2;
         color: $theme-white;
+        background-color: rgba(19, 33, 61, 0.4);
         .title {
-          font-size: $huge;
+          font-size: $extraLarge;
           padding: 1rem 0;
           font-family: $font-fahkwang;
         }

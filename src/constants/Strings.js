@@ -93,22 +93,22 @@ const Strings = {
         {
           IMAGE: require("../assets/images/carousel1.jpg"),
           ALT_TEXT: "Interior 1",
-          DISPLAY_TEXT: ["Creative Turnkey Solutions", "FOR EVERY SPACE"],
+          DISPLAY_TEXT: ["Redefining spaces with finesse.", ""],
         },
         {
           IMAGE: require("../assets/images/carousel2.jpg"),
           ALT_TEXT: "Interior 2",
-          DISPLAY_TEXT: ["Creative Turnkey Solutions", "FOR EVERY SPACE"],
+          DISPLAY_TEXT: ["Desire meets design.", ""],
         },
         {
           IMAGE: require("../assets/images/carousel4.jpg"),
           ALT_TEXT: "Interior 3",
-          DISPLAY_TEXT: ["Creative Turnkey Solutions", "FOR EVERY SPACE"],
+          DISPLAY_TEXT: ["Making spaces magnificent", "FOR EVERY SPACE"],
         },
         {
           IMAGE: require("../assets/images/carousel5.jpg"),
           ALT_TEXT: "Interior 4",
-          DISPLAY_TEXT: ["Creative Turnkey Solutions", "FOR EVERY SPACE"],
+          DISPLAY_TEXT: ["Innovate design build", "FOR EVERY SPACE"],
         },
       ],
       WORK: [
@@ -170,13 +170,13 @@ const Strings = {
         TITLE: "WHAT WE OFFER",
         SUB_TITLE: "Transform Your Space with Sophistication",
         DESCRIPTION:
-          "Tec Workshop Interiors is an organization with innovative solutions for the industry with sensitivity up to the roots of design aspects from conceptualization to execution.",
+          "Tec Workshop Interiors provides interior designs, consultancy services, and turnkey interior solutions. With extremely strong values in our work ethic, we aim to create design-savvy interior spaces with high-quality standards from conceptualization to execution.",
       },
       SECTION2: {
         TITLE: "OUR PROJECTS",
-        SUB_TITLE: "Our Featured Projects",
+        SUB_TITLE: "Our notable creations",
         DESCRIPTION:
-          "More than a decade of service in the industry has given us opportunities to work on some of the best project for clients around the nation. Below are some of those projects",
+          "Being in the industry for over a decade, gave us the opportunity to work for some of the greatest players in the hospitality and commercial sectors. Below are some of those projects.",
       },
     },
     SOCIAL: {
@@ -207,19 +207,19 @@ const Strings = {
           TITLE: "Mission",
           IMAGE: require("../assets/images/twi assets-02.png"),
           DESCRIPTION:
-            "To committedly deliver high quality products in the given stipulated time while adhering to industry standards.",
+            "To be committed to our projects and adhere to prescribed industrial standards to deliver high quality products in the given stipulated time.",
         },
         {
           TITLE: "Vision",
           IMAGE: require("../assets/images/twi assets-06.png"),
           DESCRIPTION:
-            "To enable and enhance the quality of life for our people by creating better standrads of living for tomorrow.",
+            "To enhance the quality of life for our people by empowering and enabling them, and improve living standards for a better tomorrow.",
         },
         {
           TITLE: "Values",
           IMAGE: require("../assets/images/twi assets-05.png"),
           DESCRIPTION:
-            "Reliability, authenticity, mutual respect and excellence are the core values of our company.",
+            " Reliability, authenticity, mutual respect and excellence are the core values of our company.",
         },
       ],
       OUR_CLIENTS: {
@@ -255,9 +255,9 @@ const Strings = {
             "D/5, Amar Deep CHSL., Charkop Kandivali West, Plot No.714/0-24, Sector-7, Mumbai, (M.CORP) - 400067",
         },
         {
-          TITLE: "Hyderabad",
+          TITLE: "LUCKNOW",
           ADDRESS:
-            "Balamaithri Nivas, Flat No.202, Hindi Nagar Colony, Panjagutta, Hyderabad - 500082",
+            "C2/314, Sector-F Jankipuram, Gomtinagar, Lucknow - 226021",
         },
         {
           TITLE: "Kolkata",
@@ -278,7 +278,7 @@ const Strings = {
         },
         {
           TITLE: "Telephone",
-          TEXT: "044 24329251 / 52",
+          TEXT: "+91 92822 48955",
         },
         {
           TITLE: "Email",

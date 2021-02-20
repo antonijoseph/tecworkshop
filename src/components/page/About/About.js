@@ -58,27 +58,18 @@ const About = () => {
         </div>
         <div className="right-section">
           <div className="title">FOREWORD</div>
-          <div className="subtitle">Our quality is never on accident.</div>
+          <div className="subtitle">Quality that builds trust.</div>
           <p className="description">
-            We, Tec Workshop, are an interior contracting business venture from
-            Chennai engaged in offering an extensive spectrum of handling civil
-            contracts, turn key projects, interior decoration and other
-            development works.
+            We are an interior contracting business venture from Chennai engaged in offering an extensive spectrum of handling turnkey projects, interior decoration, and other development work. Our decade-old expertise and service in the industry is highly demanded among prestigious clients for our incomparable quality standards.
           </p>
           <p className="description">
-            Our decade old expertise and service in the industry is highly
-            demanded among prestigious clients for our incomparable quality
-            standards.
+            At TEC Workshop, we believe in an open working environment and team effort. Our execution team consists of the most well-deserving Carpenters, Painters, Supervisors, Tile layers and a talented design team of Architects, Interior Designers and Allied Operators.
           </p>
           <p className="description">
-            Our strength lies in providing a unique solution to all our projects
-            that resonates with our client's heritage, culture and environment.
+            With the support of our esteemed workforce, we ensure that the project is executed to perfection on time. We aim to satisfy our clients with our committed work, meticulous attention to detail, and diversified competence. Our strength lies in providing a unique solution to all our projects that resonates with our client’s heritage, culture, and environment.  
           </p>
           <p className="description">
-            Our portfolio includes a number of prestigious Indian and Foreign
-            brands like ITC Hotels, The Oberoi Group, Taj Group of Hotels, GRT
-            Hotels, Chalet Hotels, M FAR Group, LBR Group, Triguna Group, and
-            TCI Group.
+            Currently, our portfolio includes a number of prestigious Indian and foreign brands like ITC Hotels, The Oberoi Group, Taj Group of Hotels, GRT Hotels, Chalet Hotels, M FAR Group, LBR Group, Triguna Group, and TCI Group. 
           </p>
         </div>
       </section>
@@ -90,25 +81,19 @@ const About = () => {
         <div className="left-section">
           <div className="title">OUR PLANT</div>
           <p className="description">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
-          </p>
-          <p className="description">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Our manufacturing plant is situated in a 25,000 sq. ft captive facility in Chennai, with state-of-the-art manufacturing equipment from the European Union. Our team ensures that your project is monitored for success at every stage.
           </p>
           <ul>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
-            <li>Loreum Ipsum</li>
+            <li>Hot & Cold Press </li>
+            <li>Multi Boring</li>
+            <li>Mortiser</li>
+            <li>Dust Collectors</li>
+            <li>Vertical Band Saw</li>
+            <li>Panel Saw</li>
+            <li>Spindle Moulder </li>
+            <li>Edge Banding</li>
+            <li>Thickness Planer</li>
+            <li>Coating and Finishing lines</li>
           </ul>
         </div>
         <div className="right-section">

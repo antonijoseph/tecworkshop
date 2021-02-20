@@ -4,27 +4,27 @@ const WORK_CATEGORIES = {
   HOSPITALITY: {
     BANNER: {
       IMAGE: require("../assets/images/carousel1.jpg"),
-      TEXT: ["Hospitality", "Serving Loreum ipsum"],
+      TEXT: ["Hospitality"],
     },
     OFFER: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "We are known for successfully integrating bold and beautiful designs for prestigious clients in the hospitality sector. We engage in creating traditional design layouts for our clients that meet their expectations.",
+      "We understand that the best interior designing style should speak with the customers and tell a tale of luxury.",
     ],
     ETHICS: [
       {
-        TITLE: "Mission",
-        IMAGE: require("../assets/images/twi assets-02.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Heritage",
+        IMAGE: require("../assets/images/Heritage_Hospitality.png"),
+        DESCRIPTION: "An irreplaceable source of creativity and inspiration for us.",
       },
       {
-        TITLE: "Vision",
-        IMAGE: require("../assets/images/twi assets-06.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Grandeur",
+        IMAGE: require("../assets/images/Grandeur_Hospitality.png"),
+        DESCRIPTION: "Expertise in giving attention to meticulous details.",
       },
       {
-        TITLE: "Values",
-        IMAGE: require("../assets/images/twi assets-05.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Premium",
+        IMAGE: require("../assets/images/Premium_Hospitality.png"),
+        DESCRIPTION: "Delivering excellence is our personal motto.",
       },
     ],
     FEATURED_PROJECTS: [
@@ -98,27 +98,27 @@ const WORK_CATEGORIES = {
   CORPORATES: {
     BANNER: {
       IMAGE: require("../assets/images/carousel3.jpg"),
-      TEXT: ["Corporates", "Serving Loreum ipsum"],
+      TEXT: ["Corporates"],
     },
     OFFER: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "When it comes to office interiors, we ensure that each of our design is enthralling for the onlooker and bring an aura of beauty. Our office interior designs are quirky in nature and produce an impressive look from the perspective of commercial purposes.",
+      "We aim to provide you with all kinds of commercial interior designs that will fulfill the need of your organization.",
     ],
     ETHICS: [
       {
-        TITLE: "Mission",
-        IMAGE: require("../assets/images/twi assets-02.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Growth",
+        IMAGE: require("../assets/images/Growth_Corporates.png"),
+        DESCRIPTION: "Ensuring your workplace is a space to grow.",
       },
       {
-        TITLE: "Vision",
-        IMAGE: require("../assets/images/twi assets-06.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Culture",
+        IMAGE: require("../assets/images/Culture_Corporates.png"),
+        DESCRIPTION: "Designing spaces to relate to the emotional environment of your workplace.",
       },
       {
-        TITLE: "Values",
-        IMAGE: require("../assets/images/twi assets-05.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Efficiency",
+        IMAGE: require("../assets/images/Efficiency_Corporates.png"),
+        DESCRIPTION: "Creating workspaces for productive outcomes.",
       },
     ],
     FEATURED_PROJECTS: [
@@ -164,27 +164,27 @@ const WORK_CATEGORIES = {
   RESIDENTIAL: {
     BANNER: {
       IMAGE: require("../assets/images/carousel2.jpg"),
-      TEXT: ["Residential", "Serving Loreum ipsum"],
+      TEXT: ["Residential"],
     },
     OFFER: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "We take pride in designing innovative homes that create a very intimate connection to our clients. Each home starts with a unique concept that directly correlates to our client’ss needs and their personalized style.",
+      "We pay close attention to the needs and wants of clients who will be living in our designed spaces. Our interior designers are extremely skilled in sculpting the interiors of elite residences",
     ],
     ETHICS: [
       {
-        TITLE: "Mission",
-        IMAGE: require("../assets/images/twi assets-02.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Comfort",
+        IMAGE: require("../assets/images/Comfort_Residential.png"),
+        DESCRIPTION: "Home means comfort, and we bring you just that.",
       },
       {
-        TITLE: "Vision",
-        IMAGE: require("../assets/images/twi assets-06.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Excellence",
+        IMAGE: require("../assets/images/Excellency_Residential.png"),
+        DESCRIPTION: "It is our forte, and we promise on delivering it.",
       },
       {
-        TITLE: "Values",
-        IMAGE: require("../assets/images/twi assets-05.png"),
-        DESCRIPTION: "Lorem ipsum dolor sit amet ipsum dolor sit",
+        TITLE: "Luxury",
+        IMAGE: require("../assets/images/Luxury_Residential.png"),
+        DESCRIPTION: "Don't compromise on your living.",
       },
     ],
     FEATURED_PROJECTS: [
@@ -251,11 +251,11 @@ const WORK_CATEGORIES = {
   FURNITURE: {
     BANNER: {
       IMAGE: require("../assets/images/carousel4.jpg"),
-      TEXT: ["Furniture", "Serving Loreum ipsum"],
+      TEXT: ["Furniture"],
     },
     OFFER: [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Tech Workshop is a distributor of highly sophisticated modular display furniture for commercial environments. Our expertise also lies in designing solid wood furniture for our residential projects.",
+      "Our collaborative team of professionals, designers & partners ceaselessly innovate and develop new solutions for the high-end commercial and residential requirements.",
     ],
     ITEMS: [
       {

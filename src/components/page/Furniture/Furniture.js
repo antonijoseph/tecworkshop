@@ -63,7 +63,7 @@ const Furniture = () => {
         <Banner image={details.BANNER.IMAGE} altText="Furniture Banner Image">
           <div className="banner-content">
             <div className="title">{details.BANNER.TEXT[0]}</div>
-            <div className="description">{details.BANNER.TEXT[1]}</div>
+            
           </div>
         </Banner>
       </div>

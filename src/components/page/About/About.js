@@ -54,7 +54,7 @@ const About = () => {
               }}
             ></div>
           </div>
-          <div className="image-title">Anil Tiwari, Managing Director</div>
+          {/* <div className="image-title">Anil Tiwari, Managing Director</div> */}
         </div>
         <div className="right-section">
           <div className="title">FOREWORD</div>

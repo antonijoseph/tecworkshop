@@ -69,6 +69,7 @@
     }
     .image-text-wrapper {
       justify-content: space-around;
+      height: auto;
       .ethics-item {
         display: flex;
         flex-direction: column;
@@ -161,6 +162,9 @@
           .image-wrapper {
             width: 90px;
             height: 90px;
+          }
+          .description {
+            font-size: 1.3rem;
           }
         }
       }

@@ -20,7 +20,7 @@ const NavBar = ({ data }) => {
 
     childPages.forEach((child, index) => {
       childPageList.push(
-        <span key={index} onClick={(event) => handleClick(event, child.LINK)}>
+        <span key={index} onClick={(event) => handleClick(event, child)}>
           {child.NAME}
         </span>
       );
@@ -39,7 +39,7 @@ const NavBar = ({ data }) => {
           onMouseOver={() => showChildPages(item, "over")}
           onMouseOut={() => showChildPages(item, "out")}
         >
-          <span onClick={(event) => handleClick(event, item.LINK)}>
+          <span onClick={(event) => handleClick(event, item)}>
             {item.NAME}
           </span>
           {item.CHILD_PAGES && item.CHILD_PAGES.length > 0 ? (
@@ -53,10 +53,11 @@ const NavBar = ({ data }) => {
     return navList;
   };
 
-  const handleClick = (event, link) => {
+  const handleClick = (event, item) => {
     event.preventDefault();
     document.body.classList.remove("overlay-active");
-    history.push(link);
+    if(item.NAME !== 'Work')
+      history.push(item.LINK);
   };
 
   return <div className="nav-wrapper">{renderMenu()}</div>;

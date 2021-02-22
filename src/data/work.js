@@ -203,14 +203,14 @@ const WORK_CATEGORIES = {
     ],
     FEATURED_PROJECTS: [
       {
-        IMAGE: require("../assets/images/TWI CAROUSEL 02.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         TITLE: "JW MARRIOT",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         LINK: "/",
       },
       {
-        IMAGE: require("../assets/images/TWI CAROUSEL 04.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         TITLE: "JW MARRIOT",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -222,42 +222,42 @@ const WORK_CATEGORIES = {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
         TITLE: "JW Marriott",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/TWI CAROUSEL 01.jpg"),
+        IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
     ],

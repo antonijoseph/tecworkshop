@@ -27,9 +27,10 @@
   .image-text-wrapper {
     font-size: $regular;
     font-family: $font-fahkwang;
+    height: 30px;
     .img-wrapper {
       width: 30px;
-      height: 30px;
+      height: 100%;
     }
   }
 }

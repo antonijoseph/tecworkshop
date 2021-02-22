@@ -33,14 +33,14 @@
                 text-align: center;
                 font-family: $font-fahkwang;
                 padding: 3rem 0;
-                background-color: rgba(19, 33, 61, 0.40);
+                background-color: rgba(19, 33, 61, 0.4);
                 .primary-text {
                   font-size: $extraLarge;
                   position: absolute;
-                
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
+
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%, -50%);
                 }
                 .secondary-text {
                   font-size: $regular;
@@ -255,6 +255,7 @@
               visibility: visible;
               display: flex;
               justify-content: space-between;
+              align-items: center;
               padding: 1rem 0;
               .project-title {
                 font-family: $font-mulish;
@@ -262,9 +263,10 @@
                 font-size: 1.0625rem;
               }
               .image-text-wrapper {
+                height: 30px;
                 .img-wrapper {
                   width: 30px;
-                  height: 30px;
+                  height: 100%;
                 }
                 a {
                   font-size: 1.0625rem;
@@ -318,9 +320,10 @@
                   font-size: 1.0625rem;
                 }
                 .image-text-wrapper {
+                  height: 20px;
                   .img-wrapper {
                     width: 20px;
-                    height: 20px;
+                    height: 100%;
                     right: 5px;
                     left: initial;
                   }

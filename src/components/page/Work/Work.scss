@@ -225,9 +225,10 @@
           margin-bottom: 4rem;
           .project-card-wrapper {
             .image-text-wrapper {
+              height: 25px;
               .img-wrapper {
                 width: 25px;
-                height: 25px;
+                height: 100%;
               }
             }
           }

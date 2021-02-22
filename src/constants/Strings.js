@@ -146,7 +146,7 @@ const Strings = {
         {
           NAME: "JW Marriott, Mumbai",
           IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
-          PATH: "/work/hospitality/jw-marriot-mumbai",
+          PATH: "/work/hospitality/jw-marriott-mumbai",
         },
         {
           NAME: "The Westin Chennai",

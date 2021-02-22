@@ -13,6 +13,7 @@ const ImageText = ({ image, text, path }) => {
         </div>
       )}
       <Link to={path}>{text}</Link>
+      <Link to={path}>{text}</Link>
     </div>
   );
 };

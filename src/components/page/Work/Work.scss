@@ -207,6 +207,9 @@
           width: 100%;
           display: flex;
           margin-bottom: 1rem;
+          .description {
+            font-size: $large-mobile;
+          }
           .title {
             margin: 2rem 0;
           }
@@ -226,6 +229,9 @@
         }
       }
     }
+    .work-page-wrapper .other-projects-section .load-more-projects {
+      font-size: $large-mobile;
+    }
     .other-projects-section {
       padding: 4rem;
       .project-list-wrapper {
@@ -239,6 +245,9 @@
                 width: 25px;
                 height: 100%;
               }
+            }
+            .card-details .project-card-description, .card-details .project-card-title {
+              font-size: $large-mobile;
             }
           }
         }

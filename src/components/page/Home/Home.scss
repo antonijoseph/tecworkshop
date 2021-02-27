@@ -301,6 +301,13 @@
         }
       }
     }
+    .about {
+      .left-section {
+        .title{
+          font-size: $input;
+        }
+      }
+    }
     .slider-wrapper {
       .swiper-container {
         .swiper-wrapper {
@@ -372,6 +379,9 @@
         width: 100%;
         margin-right: 0;
         margin-bottom: 6rem;
+        .title {
+          font-size: $input;
+        }
       }
       .image-wrapper {
         width: 100%;
@@ -435,6 +445,7 @@
                     left: 15px;
                     font-family: $font-mulish;
                     font-weight: 600;
+                    font-size: $large-mobile;
                     letter-spacing: 1px;
                   }
                 }

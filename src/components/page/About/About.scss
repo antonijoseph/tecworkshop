@@ -117,6 +117,7 @@
 }
 
 @media only screen and (max-width: $mobile-max-width) {
+
   .about-wrapper {
     .about.intro,
     .our-plant-section {
@@ -185,4 +186,16 @@
       }
     }
   }
+}
+@media only screen and (max-width: $mobile-max-width) {
+  .about-wrapper .about.intro .description, .about-wrapper .about.intro .title, .about-wrapper .our-plant-section .title,
+  .about-wrapper .our-plant-section .description, .about-wrapper .ethos-section .title, 
+  .about-wrapper .our-plant-section ul li
+  {
+    font-size: $input;
+  }
+  .title-group-wrapper .group-title{
+    font-size: $input !important;
+  }
+  
 }

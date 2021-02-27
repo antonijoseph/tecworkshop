@@ -109,10 +109,17 @@
       padding: 4rem;
       .title {
         margin-bottom: 1rem;
+        font-size: $input;
+      }
+      .description {
+        font-size: $large-mobile;
       }
     }
     .items-wrapper {
       padding: 0 4rem 4rem;
+      .product-wrapper .product-title {
+        font-size: $large-mobile;
+      }
     }
   }
 }

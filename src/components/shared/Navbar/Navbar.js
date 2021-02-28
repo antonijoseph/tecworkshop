@@ -6,12 +6,9 @@ const NavBar = ({ data }) => {
   const childPageWrapper = useRef(null);
   const history = useHistory();
 
-  const showChildPages = (item, action) => {
-    console.log("In here 1",item);
-    if (item.CHILD_PAGES && item.CHILD_PAGES.length > 0) {
-      console.log("In here 2 ", action);
-      if (childPageWrapper && childPageWrapper.current)
-        console.log("In here 3 ", action);
+  const showChildPages = (item, action) => {   
+    if (item.CHILD_PAGES && item.CHILD_PAGES.length > 0) {    
+      if (childPageWrapper && childPageWrapper.current)       
         action === "over"
           ? childPageWrapper.current.classList.add("active")
           : childPageWrapper.current.classList.remove("active");
@@ -58,7 +55,6 @@ const NavBar = ({ data }) => {
 
   const handleClick = (event, item) => {
     event.preventDefault();
-    console.log("In here ");
     
     document.body.classList.remove("overlay-active");
     let mobilemenu = document.getElementsByClassName("mobile-menu")[0];

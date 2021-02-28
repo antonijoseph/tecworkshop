@@ -10,18 +10,18 @@
     text-align: left;
     padding: 6rem;
     .title {
-      font-size: $large;
+      font-size: $regular17;
       font-family: $font-mulish;
-      font-weight: 600;
+      font-weight: 800;
       margin-bottom: 3rem;
     }
     .subtitle {
-      font-size: 3rem;
+      font-size: 2.3rem;
       font-family: $font-fahkwang;
       margin-bottom: 2rem;
     }
     .description {
-      font-size: $large;
+      font-size: $regular17;
       font-family: $font-mulish;
       margin-bottom: 2rem;
     }
@@ -42,7 +42,7 @@
     ul {
       padding-left: $large;
       li {
-        font-size: $large;
+        font-size: $regular17;
         font-family: $font-mulish;
       }
     }
@@ -50,7 +50,7 @@
       height: 100%;
       .image {
         height: 100%;
-        background-size: cover;
+        background-size: cover !important;
         background-repeat: no-repeat;
         background-position: center center;
       }
@@ -62,13 +62,14 @@
   .ethos-section {
     padding: 6rem;
     .title {
-      font-size: $large;
+      font-size: 1.125rem;
       font-family: $font-mulish;
-      font-weight: 600;
+      font-weight: 800;
       margin-bottom: 3rem;
     }
     .image-text-wrapper {
       justify-content: space-around;
+      align-items: flex-start;
       height: auto;
       .ethics-item {
         display: flex;
@@ -89,12 +90,12 @@
         .ethics-title {
           margin: 1rem;
           text-transform: uppercase;
-          font-size: $large;
+          font-size: 1rem;
           font-weight: bold;
           font-family: $font-mulish;
         }
         .description {
-          font-size: $h5;
+          font-size: 1rem;
           font-family: $font-mulish;
           text-align: center;
           font-weight: 500;
@@ -158,6 +159,7 @@
       .image-text-wrapper {
         flex-direction: column;
         justify-content: center;
+        align-items: center;
         .ethics-item {
           width: 75%;
           .image-wrapper {
@@ -198,4 +200,9 @@
     font-size: $input !important;
   }
   
+}
+@media only screen and (max-width: $tab-max-width) {
+  .about-wrapper .ethos-section .image-text-wrapper .ethics-item{
+    width: 35%;
+  }
 }

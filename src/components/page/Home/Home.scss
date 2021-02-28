@@ -70,7 +70,7 @@
       .title {
         font-size: $regular17;
         font-family: $font-mulish;
-        font-weight: 600;
+        font-weight: 800;
         margin-bottom: 3rem;
       }
       .subtitle {
@@ -186,8 +186,9 @@
       z-index: 2;
       .title {
         color: $theme-white;
-        font-size: $h3;
+        font-size: 2rem;
         font-family: $font-fahkwang;
+        // font-weight: 800;
         padding: 1rem 0;
       }
       .client-logos {
@@ -261,7 +262,7 @@
               .project-title {
                 font-family: $font-mulish;
                 font-weight: 700;
-                font-size: 1.0625rem;
+                font-size: $regular17;
               }
               .image-text-wrapper {
                 height: 30px;
@@ -270,7 +271,7 @@
                   height: 100%;
                 }
                 a {
-                  font-size: 1.0625rem;
+                  font-size: 1rem;
                 }
               }
             }
@@ -305,6 +306,7 @@
       .left-section {
         .title{
           font-size: $input;
+          font-weight: 800;
         }
       }
     }
@@ -358,7 +360,7 @@
               .image {
                 .carousel-text {
                   .primary-text {
-                    font-size: 7rem;
+                    font-size: 6rem;
                   }
                   .secondary-text {
                     margin-top: 1rem;
@@ -381,6 +383,7 @@
         margin-bottom: 6rem;
         .title {
           font-size: $input;
+          font-weight: 800;
         }
         .description {
           font-size: $input;
@@ -470,6 +473,7 @@
         padding: 6rem;
         .title {
           padding: 0;
+          // font-weight: 800;
         }
         .client-logos {
           display: flex;

@@ -7,11 +7,21 @@ const NavBar = ({ data }) => {
   const history = useHistory();
 
   const showChildPages = (item, action) => {
+    console.log("In here 1",item);
     if (item.CHILD_PAGES && item.CHILD_PAGES.length > 0) {
+      console.log("In here 2 ", action);
       if (childPageWrapper && childPageWrapper.current)
+        console.log("In here 3 ", action);
         action === "over"
           ? childPageWrapper.current.classList.add("active")
           : childPageWrapper.current.classList.remove("active");
+    } else {
+      if(item.LINK.includes('work/')){
+        
+        action === "over"
+          ? childPageWrapper.current.classList.add("active")
+          : childPageWrapper.current.classList.remove("active");
+      }
     }
   };
 
@@ -55,11 +65,14 @@ const NavBar = ({ data }) => {
 
   const handleClick = (event, item) => {
     event.preventDefault();
+   console.log("In here ");
     document.body.classList.remove("overlay-active");
     if(item.NAME !== 'Work')
       history.push(item.LINK);
+      
   };
-
+  
+  
   return <div className="nav-wrapper">{renderMenu()}</div>;
 };
 

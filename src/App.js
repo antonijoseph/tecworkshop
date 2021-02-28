@@ -7,6 +7,7 @@ import Routes from './routes/routes';
 library.add(faFacebookF, faInstagram, faYoutube, faLinkedin, faTwitter);
 
 function App() {
+  
   return (
     <div className="App">
       <Routes />

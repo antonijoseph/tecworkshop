@@ -2,7 +2,7 @@
 
 .image-text-wrapper {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   color: currentColor;
   position: relative;
   font-size: $h6;
@@ -46,11 +46,11 @@
     }
   }
 }
-@media only screen and (max-width: $mobile-max-width) {
+@media only screen and (max-width: $tab-max-width) {
   .image-text-wrapper{
     font-size: $large-mobile;
     a{
-      font-size: $large-mobile;
+      font-size: $large-mobile !important;
     }
   }
 }

@@ -15,14 +15,7 @@ const NavBar = ({ data }) => {
         action === "over"
           ? childPageWrapper.current.classList.add("active")
           : childPageWrapper.current.classList.remove("active");
-    } else {
-      if(item.LINK.includes('work/')){
-        
-        action === "over"
-          ? childPageWrapper.current.classList.add("active")
-          : childPageWrapper.current.classList.remove("active");
-      }
-    }
+    } 
   };
 
   const renderChildPages = (childPages) => {
@@ -65,11 +58,14 @@ const NavBar = ({ data }) => {
 
   const handleClick = (event, item) => {
     event.preventDefault();
-   console.log("In here ");
+    console.log("In here ");
+    
     document.body.classList.remove("overlay-active");
+    let mobilemenu = document.getElementsByClassName("mobile-menu")[0];
+    mobilemenu.classList.remove('active');
     if(item.NAME !== 'Work')
       history.push(item.LINK);
-      
+
   };
   
   

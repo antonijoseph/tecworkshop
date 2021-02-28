@@ -177,13 +177,13 @@
       align-items: center;
       .ethics-item {
         padding: 10px;
-        width: 40%;
+        width: 75%;
         .ethics-title, .description {
           font-size: 1.3rem;
         }
         .image-wrapper {
-          width: 100%;
-          height: auto;
+          width: 90px;
+          height: 90px;
         }
       }
     }
@@ -208,7 +208,7 @@
           display: flex;
           margin-bottom: 1rem;
           .description {
-            font-size: $large-mobile;
+            font-size: $input;
           }
           .title {
             margin: 2rem 0;
@@ -247,7 +247,7 @@
               }
             }
             .card-details .project-card-description, .card-details .project-card-title {
-              font-size: $large-mobile;
+              font-size: $large;
             }
           }
         }

@@ -256,8 +256,7 @@ const Strings = {
         },
         {
           TITLE: "LUCKNOW",
-          ADDRESS:
-            "C2/314, Sector-F Jankipuram, Gomtinagar, Lucknow - 226021",
+          ADDRESS: "C2/314, Sector-F Jankipuram, Gomtinagar, Lucknow - 226021",
         },
         {
           TITLE: "Kolkata",
@@ -278,7 +277,7 @@ const Strings = {
         },
         {
           TITLE: "Telephone",
-          TEXT: "+91 92822 48955",
+          TEXT: "+91 90804 80123",
         },
         {
           TITLE: "Email",

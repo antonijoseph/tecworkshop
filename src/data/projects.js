@@ -44,8 +44,7 @@ const PROJECTS = [
     TITLE: "The Westin Chennai",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "3 excutive floors & Public Area such as lobby and lounge.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "12RBwRYW57OpY4OjiZA1EKQdLIEHOyqX6",
@@ -107,7 +106,7 @@ const PROJECTS = [
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1FzwdgUc5XgMJbuFWEhHEq87LKz4XOJ0l",
     DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+      "Executive lounge, The Chambers at Taj and event hall (Willingdon)",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1yQL82fSer6Q7Hph0uvbXOnrVrWzRR7va",
@@ -152,8 +151,7 @@ const PROJECTS = [
     TITLE: "GRT Temple Bay",
     LOCATION: "Mahabalipuram, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1eQC72ovsGkDKiCL-UODvDkBQWwh3g6er",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Bar, boardroom, cottages and suite rooms.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1mEM5Mqa1VmnKzT2XHAu7PpcmuJ1ygYhw",
@@ -222,8 +220,7 @@ const PROJECTS = [
     TITLE: "ITC Royal Bengal",
     LOCATION: "Kolkata, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "10PzXFjnlMuQZY1vrMkxNf-Op7PjOuZ8J",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "80 service Apartments along with 4 floor corridors.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1MK0t5K6zqkn5pj2pnFxs4dgkkTjLb_cn",
@@ -260,8 +257,7 @@ const PROJECTS = [
     TITLE: "TCI Chennai",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "16kGSkBnqjJFl2_iWfzV3g8aJMHRCi9L0",
@@ -298,8 +294,7 @@ const PROJECTS = [
     TITLE: "Elken",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1iiHftbxlZCtpvBzXywsksENkr68WrfvC",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1OSEkvHFjxlWwlAR2hMA9I21EA3_7INrp",
@@ -348,8 +343,7 @@ const PROJECTS = [
     TITLE: "Surbana International",
     LOCATION: "Hyderabad, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1hm85i0YXgCIKWNjQqi5uyyaHtNrUwl4O",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "10nMNEzpnmOLHYlRjY_jIHgglfn7stZoa",
@@ -402,8 +396,7 @@ const PROJECTS = [
     TITLE: "eCosway",
     LOCATION: "Hyderabad, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1rSARpRbREmKeQ7MtiVx6k1TrT3de0t0K",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "13rZWwMgScF7X01wEl_KwNea4r6Vlu2Pp",
@@ -460,8 +453,7 @@ const PROJECTS = [
     TITLE: "Mission Kakatiya Office",
     LOCATION: "Hyderabad, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1aAkO5SePQVkAOetB5zD2Los9dgWSe2MO",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1lYpkZ5ffnKn6EwDMfE1AwpGNBveVH1JC",
@@ -506,8 +498,7 @@ const PROJECTS = [
     TITLE: "The Westin Hyderabad Mindspace",
     LOCATION: "Hyderabad, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Rooms and Suites.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1MI7d0o6Vzka6HU2ZHymUMEtZaTjJSQdS",
@@ -532,8 +523,7 @@ const PROJECTS = [
     TITLE: "Taj Mount Road",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1kgneXX_FHYkclbp6Colj_zf-DX3DvqJH",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "All guest rooms and suites.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1emNQkuDuJ3VjpfzHm9pgFECgOCrQIb8Z",
@@ -578,8 +568,7 @@ const PROJECTS = [
     TITLE: "Taj Club House",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "All guest rooms and suites.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1qWJ-9YitMtYtjT4TvxrZfTk0HSx-qSHf",
@@ -632,8 +621,7 @@ const PROJECTS = [
     TITLE: "ITC Welcomhotel",
     LOCATION: "Bangalore, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1EtbjD7PvRYIAuMuJTM4jgZXYj4ZxN0zn",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "All Public Areas such as restaurant, lobby and cafe.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1oCr9kGXw-AOPnx8N-Hd09TuY5hA1d_gW",
@@ -670,8 +658,7 @@ const PROJECTS = [
     TITLE: "Novotel Sipcot",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "All Guest Rooms.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1142ULwiRQOlAXLnQaaNiNeMul-UjfG_z",
@@ -696,8 +683,7 @@ const PROJECTS = [
     TITLE: "The Trident",
     LOCATION: "Chennai, India",
     BANNER_IMAGE: GOOGLE_DRIVE_URL + "1uQjlv1oZFbO98svYhqISOqkvz0k1f5nH",
-    DESCRIPTION:
-      "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
+    DESCRIPTION: "Samumudra Resturant and gym.",
     IMAGES: [
       {
         IMAGE: GOOGLE_DRIVE_URL + "1HU6YLbEtLxW8LsKkNOcTMX_3hgh4dfQ5",

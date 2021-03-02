@@ -93,12 +93,12 @@ const Strings = {
         {
           IMAGE: require("../assets/images/carousel1.jpg"),
           ALT_TEXT: "Interior 1",
-          DISPLAY_TEXT: ["Redefining spaces with finesse.", ""],
+          DISPLAY_TEXT: ["Redefining spaces with finesse", ""],
         },
         {
           IMAGE: require("../assets/images/carousel2.jpg"),
           ALT_TEXT: "Interior 2",
-          DISPLAY_TEXT: ["Desire meets design.", ""],
+          DISPLAY_TEXT: ["Desire meets design", ""],
         },
         {
           IMAGE: require("../assets/images/carousel4.jpg"),

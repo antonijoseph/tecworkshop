@@ -46,13 +46,13 @@ const About = () => {
       <section className="about intro">
         <div className="left-section">
           <div className="image-wrapper">
-            {/* <Image source={Images.COMING_SOON} altText="Anil Tiwari" /> */}
-            <div
+            <Image source={Images.ABOUT_INTRO} altText="Anil Tiwari" />
+            {/* <div
               className="image"
               style={{
                 backgroundImage: `url(${Images.COMING_SOON})`,
               }}
-            ></div>
+            ></div> */}
           </div>
           {/* <div className="image-title">Anil Tiwari, Managing Director</div> */}
         </div>
@@ -98,13 +98,13 @@ const About = () => {
         </div>
         <div className="right-section">
           <div className="image-wrapper">
-            {/* <Image source={Images.COMING_SOON} altText="Our Plant" /> */}
-            <div
+            <Image source={Images.OUR_PLANT} altText="Our Plant" />
+            {/* <div
               className="image"
               style={{
                 backgroundImage: `url(${Images.COMING_SOON})`,
               }}
-            ></div>
+            ></div> */}
           </div>
         </div>
       </section>

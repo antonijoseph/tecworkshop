@@ -22,7 +22,7 @@ const Work = ({ match }) => {
     });
     return description;
   };
-
+  document.body.classList.remove("overlay-active");
   useEffect(() => {
     setProjectCount(size);
   }, [category, size]);

@@ -6,13 +6,13 @@ const NavBar = ({ data }) => {
   const childPageWrapper = useRef(null);
   const history = useHistory();
 
-  const showChildPages = (item, action) => {
-    if (item.CHILD_PAGES && item.CHILD_PAGES.length > 0) {
-      if (childPageWrapper && childPageWrapper.current)
+  const showChildPages = (item, action) => {   
+    if (item.CHILD_PAGES && item.CHILD_PAGES.length > 0) {    
+      if (childPageWrapper && childPageWrapper.current)       
         action === "over"
           ? childPageWrapper.current.classList.add("active")
           : childPageWrapper.current.classList.remove("active");
-    }
+    } 
   };
 
   const renderChildPages = (childPages) => {
@@ -20,7 +20,7 @@ const NavBar = ({ data }) => {
 
     childPages.forEach((child, index) => {
       childPageList.push(
-        <span key={index} onClick={(event) => handleClick(event, child.LINK)}>
+        <span key={index} onClick={(event) => handleClick(event, child)}>
           {child.NAME}
         </span>
       );
@@ -39,7 +39,7 @@ const NavBar = ({ data }) => {
           onMouseOver={() => showChildPages(item, "over")}
           onMouseOut={() => showChildPages(item, "out")}
         >
-          <span onClick={(event) => handleClick(event, item.LINK)}>
+          <span onClick={(event) => handleClick(event, item)}>
             {item.NAME}
           </span>
           {item.CHILD_PAGES && item.CHILD_PAGES.length > 0 ? (
@@ -53,12 +53,18 @@ const NavBar = ({ data }) => {
     return navList;
   };
 
-  const handleClick = (event, link) => {
+  const handleClick = (event, item) => {
     event.preventDefault();
+    
     document.body.classList.remove("overlay-active");
-    history.push(link);
-  };
+    let mobilemenu = document.getElementsByClassName("mobile-menu")[0];
+    mobilemenu.classList.remove('active');
+    if(item.NAME !== 'Work')
+      history.push(item.LINK);
 
+  };
+  
+  
   return <div className="nav-wrapper">{renderMenu()}</div>;
 };
 

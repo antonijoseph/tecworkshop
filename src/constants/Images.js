@@ -18,6 +18,8 @@ const images = {
   CLIENT_LOGO_ITC: require("../assets/images/ITC.png"),
   TEC_WORKSHOP_LOGO_WORDMARK_WHITE: require("../assets/images/TWI-wordmark-white.png"),
   TEC_WORKSHOP_LOGO_WORDMARK_BLUE: require("../assets/images/TWI-wordmark-blue.png"),
+  OUR_PLANT: require("../assets/images/Plant-photo.png"),
+  ABOUT_INTRO: require("../assets/images/About-Page.jpg"),
 };
 
 export default images;

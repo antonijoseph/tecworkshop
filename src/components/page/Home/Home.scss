@@ -33,14 +33,15 @@
                 text-align: center;
                 font-family: $font-fahkwang;
                 padding: 3rem 0;
-                background-color: rgba(19, 33, 61, 0.40);
+                background-color: rgba(19, 33, 61, 0.4);
+                text-transform: capitalize;
                 .primary-text {
                   font-size: $extraLarge;
                   position: absolute;
-                
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
+
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%, -50%);
                 }
                 .secondary-text {
                   font-size: $regular;
@@ -69,7 +70,7 @@
       .title {
         font-size: $regular17;
         font-family: $font-mulish;
-        font-weight: 600;
+        font-weight: 800;
         margin-bottom: 3rem;
       }
       .subtitle {
@@ -185,8 +186,9 @@
       z-index: 2;
       .title {
         color: $theme-white;
-        font-size: $h3;
+        font-size: 2rem;
         font-family: $font-fahkwang;
+        // font-weight: 800;
         padding: 1rem 0;
       }
       .client-logos {
@@ -255,19 +257,21 @@
               visibility: visible;
               display: flex;
               justify-content: space-between;
+              align-items: center;
               padding: 1rem 0;
               .project-title {
                 font-family: $font-mulish;
                 font-weight: 700;
-                font-size: 1.0625rem;
+                font-size: $regular17;
               }
               .image-text-wrapper {
+                height: 30px;
                 .img-wrapper {
                   width: 30px;
-                  height: 30px;
+                  height: 100%;
                 }
                 a {
-                  font-size: 1.0625rem;
+                  font-size: 1rem;
                 }
               }
             }
@@ -298,6 +302,14 @@
         }
       }
     }
+    .about {
+      .left-section {
+        .title{
+          font-size: $input;
+          font-weight: 800;
+        }
+      }
+    }
     .slider-wrapper {
       .swiper-container {
         .swiper-wrapper {
@@ -318,9 +330,10 @@
                   font-size: 1.0625rem;
                 }
                 .image-text-wrapper {
+                  height: 20px;
                   .img-wrapper {
                     width: 20px;
-                    height: 20px;
+                    height: 100%;
                     right: 5px;
                     left: initial;
                   }
@@ -347,7 +360,7 @@
               .image {
                 .carousel-text {
                   .primary-text {
-                    font-size: 7rem;
+                    font-size: 6rem;
                   }
                   .secondary-text {
                     margin-top: 1rem;
@@ -368,6 +381,13 @@
         width: 100%;
         margin-right: 0;
         margin-bottom: 6rem;
+        .title {
+          font-size: $input;
+          font-weight: 800;
+        }
+        .description {
+          font-size: $input;
+        }
       }
       .image-wrapper {
         width: 100%;
@@ -431,6 +451,7 @@
                     left: 15px;
                     font-family: $font-mulish;
                     font-weight: 600;
+                    font-size: $large-mobile;
                     letter-spacing: 1px;
                   }
                 }
@@ -452,6 +473,7 @@
         padding: 6rem;
         .title {
           padding: 0;
+          // font-weight: 800;
         }
         .client-logos {
           display: flex;

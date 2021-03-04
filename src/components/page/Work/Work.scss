@@ -24,6 +24,7 @@
           padding: 1rem 0;
           font-family: $font-fahkwang;
           text-transform: capitalize;
+          // font-weight: 800;
         }
         .description {
           font-size: $h5;
@@ -73,11 +74,12 @@
       .ethics-title {
         margin: 1rem;
         text-transform: uppercase;
-        font-size: 1.125rem;
+        font-size: 1rem;
         font-family: $font-mulish;
+        font-weight: 800;
       }
       .description {
-        font-size: 1.125rem;
+        font-size: 1rem;
         font-family: $font-mulish;
         text-align: center;
       }
@@ -88,7 +90,7 @@
     color: $theme-white;
     padding: 6rem;
     .title {
-      font-size: $large;
+      font-size: $regular17;
       font-weight: bold;
       text-transform: uppercase;
       font-family: $font-mulish;
@@ -112,15 +114,17 @@
         justify-content: center;
         font-family: $font-mulish;
         font-size: 1.125rem;
+        
         .title {
           margin-bottom: 2rem;
+          font-weight: 800;
         }
         .description {
           margin-bottom: 4rem;
         }
         .image-text-wrapper {
           a {
-            font-size: 1.125rem;
+            font-size: 1rem;
           }
         }
       }
@@ -139,7 +143,7 @@
   .other-projects-section {
     padding: 6rem;
     .title {
-      font-size: $large;
+      font-size: $regular17;
       font-weight: bold;
       text-transform: uppercase;
       font-family: $font-mulish;
@@ -166,15 +170,24 @@
       .title {
         margin-bottom: 1rem;
       }
+      .title, .description {
+        font-size: 1.5rem;
+      }
     }
     .ethics-section {
       padding: 0 4rem 4rem;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       .ethics-item {
-        padding: 0;
-        width: 20%;
+        padding: 10px;
+        width: 75%;
+        .ethics-title, .description {
+          font-size: 1.3rem;
+        }
         .image-wrapper {
-          width: 100%;
-          height: auto;
+          width: 90px;
+          height: 90px;
         }
       }
     }
@@ -198,8 +211,12 @@
           width: 100%;
           display: flex;
           margin-bottom: 1rem;
+          .description {
+            font-size: $input;
+          }
           .title {
             margin: 2rem 0;
+            font-weight: 800;
           }
           .image-text-wrapper {
             .img-wrapper {
@@ -217,6 +234,9 @@
         }
       }
     }
+    .work-page-wrapper .other-projects-section .load-more-projects {
+      font-size: $large-mobile;
+    }
     .other-projects-section {
       padding: 4rem;
       .project-list-wrapper {
@@ -225,14 +245,24 @@
           margin-bottom: 4rem;
           .project-card-wrapper {
             .image-text-wrapper {
+              height: 25px;
               .img-wrapper {
                 width: 25px;
-                height: 25px;
+                height: 100%;
               }
+            }
+            .card-details .project-card-description, .card-details .project-card-title {
+              font-size: $large;
             }
           }
         }
       }
     }
+  }
+}
+
+@media only screen and (max-width: $tab-max-width) {
+  .work-page-wrapper .ethics-section .ethics-item{
+    width: 30%;
   }
 }

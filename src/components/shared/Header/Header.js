@@ -15,7 +15,6 @@ const Header = ({ theme }) => {
 
   const toggleMenu = () => {
     if (mobileMenu.current.classList.contains("active")) {
-      console.log(document.body);
       document.body.classList.remove("overlay-active");
       mobileMenu.current.classList.remove("active");
     } else {

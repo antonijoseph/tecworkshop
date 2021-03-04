@@ -23,6 +23,7 @@
           font-size: $extraLarge;
           padding: 1rem 0;
           font-family: $font-fahkwang;
+          // font-weight: 800;
         }
         .description {
           font-size: $h5;
@@ -38,7 +39,7 @@
     .title {
       flex: 1;
       font-size: 1.125rem;
-      font-weight: bold;
+      font-weight: 800;
       font-family: $font-mulish;
       text-transform: uppercase;
     }
@@ -109,10 +110,18 @@
       padding: 4rem;
       .title {
         margin-bottom: 1rem;
+        font-size: $input;
+        font-weight: 800;
+      }
+      .description {
+        font-size: $large-mobile;
       }
     }
     .items-wrapper {
       padding: 0 4rem 4rem;
+      .product-wrapper .product-title {
+        font-size: $large-mobile;
+      }
     }
   }
 }

@@ -129,10 +129,16 @@ const Home = () => {
           <div className="title">ABOUT US</div>
           <div className="subtitle">Quality that builds trust.</div>
           <p className="description">
-            We aim to engineer your dream with our extensive experience and in-depth knowledge in architecture by creating grandeur and timeless interior spaces. We work passionately and put in sincere efforts to fulfill your dream.
+            We aim to engineer your dream with our extensive experience and
+            in-depth knowledge in architecture by creating grandeur and timeless
+            interior spaces. We work passionately and put in sincere efforts to
+            fulfill your dream.
           </p>
           <p className="description">
-            Our strength and belief lie in being resourceful, which makes us anticipate our client’s needs and help us deliver with commitment. We build high customer retention with our clients by delivering value on time without any compromise.
+            Our strength and belief lie in being resourceful, which makes us
+            anticipate our client’s needs and help us deliver with commitment.
+            We build high customer retention with our clients by delivering
+            value on time without any compromise.
           </p>
           <ImageText
             image={Images.TWI_ASSETS_THREE}

@@ -37,12 +37,12 @@
             margin-bottom: 1rem;
             color: $theme-white;
             font-size: $regular17;
-            font-weight: 700;
+            font-weight: 800;
             text-transform: uppercase;
           }
           .address {
             color: $theme-white;
-            font-size: $h5;
+            font-size: $regular17;
           }
           &:nth-child(2) {
             margin-bottom: 0.5rem;
@@ -67,12 +67,12 @@
             margin-bottom: 1rem;
             color: $theme-white;
             font-size: $regular17;
-            font-weight: 700;
+            font-weight: 800;
             text-transform: uppercase;
           }
           .address {
             color: $theme-white;
-            font-size: $h5;
+            font-size: $regular17;
           }
           &:not(:nth-child(2n)) {
             margin-right: 10%;
@@ -154,13 +154,13 @@
             .title {
               margin-bottom: 1rem;
               color: $theme-white;
-              font-size: $regular17;
-              font-weight: 700;
+              font-size: $input;
+              font-weight: 800;
               text-transform: uppercase;
             }
             .address {
               color: $theme-white;
-              font-size: $regular17;
+              font-size: $input;
             }
             &:nth-child(2) {
               margin-bottom: 2rem;
@@ -180,10 +180,10 @@
           .location-tile {
             width: 45%;
             .title {
-              font-size: $regular17;
+              font-size: $input;
             }
             .address {
-              font-size: $regular17;
+              font-size: $input;
             }
             &:not(:nth-child(2n)) {
               margin-right: 10%;
@@ -194,8 +194,8 @@
       .form-section {
         padding: 4rem 0;
         .form-title {
-          font-size: $regular;
-          font-weight: 700;
+          font-size: $h4;
+          font-weight: 800;
           text-transform: uppercase;
           color: $theme-white;
         }
@@ -232,7 +232,7 @@
           .button-wrapper {
             width: 100%;
             display: flex;
-            justify-content: flex-end;
+            justify-content: center;
             .custom-button {
               align-self: flex-end;
             }

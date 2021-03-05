@@ -145,22 +145,22 @@ const Strings = {
       FEATURED_PROJECTS: [
         {
           NAME: "JW Marriott, Mumbai",
-          IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
+          IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot01.jpg"),
           PATH: "/work/hospitality/jw-marriott-mumbai",
         },
         {
           NAME: "The Westin Chennai",
-          IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",
+          IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai01.jpg"),
           PATH: "/work/hospitality/westin-chennai",
         },
         {
           NAME: "ITC Royal Bengal",
-          IMAGE: GOOGLE_DRIVE_URL + "10PzXFjnlMuQZY1vrMkxNf-Op7PjOuZ8J",
+          IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_172210.jpg"),
           PATH: "/work/hospitality/itc-royalbengal",
         },
         {
           NAME: "TCI Chennai",
-          IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
+          IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0070.jpg"),
           PATH: "/work/corporates/tci-chennai",
         },
       ],

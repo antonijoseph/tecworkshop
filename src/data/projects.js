@@ -294,10 +294,6 @@ const PROJECTS = [
     IMAGES: [
       {
         IMAGE: require("../assets/images/Corporates/Elken  /IMG_0028.jpg"),
-        ALT_TEXT: "TWI CAROUSEL 01",
-      },
-      {
-        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0028.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {

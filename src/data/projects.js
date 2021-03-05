@@ -1,40 +1,40 @@
-import { GOOGLE_DRIVE_URL } from "../constants";
+//import { GOOGLE_DRIVE_URL } from "../constants";
 
 const PROJECTS = [
   {
     ID: "jw-marriott-mumbai",
     TITLE: "JW Marriott",
     LOCATION: "Mumbai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
+    BANNER_IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot01.jpg"),
     DESCRIPTION:
       "67 Guest Rooms, 15 Suite Rooms & corridor, GM Apartment & Executive Lounge",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1z-flP18S82GE99WWzpc3Toj7iSuNqlWe",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot02.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1xWJ7YVY78ajX9jqdZ5OZvDAonDKehWVF",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot03.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ZS8Y3KV3CnKlKjcEZvFudS04wwtYge0k",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot04.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Pc8dokqB7REcQOR7zvlx_hrOJLbdKu6x",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot05.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1-aapIoO6IO_wzBDOijH9UyFLu6oIlz_U",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot06.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1i6Qs0j6e5XCNk6THHkjEycTrw96li_bc",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot07.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1rMldcPn1yzrOON3CELwLE7lNLc5EBkyS",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot09.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -43,59 +43,59 @@ const PROJECTS = [
     ID: "westin-chennai",
     TITLE: "The Westin Chennai",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai01.jpg"),
     DESCRIPTION: "3 excutive floors & Public Area such as lobby and lounge.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "12RBwRYW57OpY4OjiZA1EKQdLIEHOyqX6",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai02.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1_y6I7LPqyCLwdqppXbCOSC7m3wTZzdhU",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai04.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "10PMpY5LZmdYq7Ej3j1wC9FEgw-v_PV3Q",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai13.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1EsabZ4Ds-yRSt7wSiXLnvlD80WFaUfgM",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai11.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "14s4Ijtyo2KRhaVwjFWUdRf0ltdXPhCNk",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai12.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1_r_n2ANvMtZnPMrlUPcPhrhwOsC6yQSH",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai03.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1rPV6bL3etJZCLrOE63N6iNHn-Pcb62_E",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai05.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1EyiZ2uEpqNx2dpMwxMbSecYTXBdjYDya",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai06.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1aNZqCzI92xlLN7_9weqlnWtAOykte3qo",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai07.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1czKC59BBtTKXflzGzjM7wuvS2ok5-N9N",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai08.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1s3iDCDqGRGrsuq4J3Km_UEuDDHLNuYpG",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai09.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1k-vaRGfYVhxMiTSazEQ0EYjCogSGzKu5",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai10.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai01.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -104,44 +104,44 @@ const PROJECTS = [
     ID: "taj-coromandel",
     TITLE: "Taj Coromandel",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1FzwdgUc5XgMJbuFWEhHEq87LKz4XOJ0l",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0068.jpg"),
     DESCRIPTION:
       "Executive lounge, The Chambers at Taj and event hall (Willingdon)",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1yQL82fSer6Q7Hph0uvbXOnrVrWzRR7va",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0042.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1bEIOwOzWa3gEv97Xr8WLQgTQeXsAigWS",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0059.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1FzwdgUc5XgMJbuFWEhHEq87LKz4XOJ0l",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0068.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1D5PkSBpmBx3TkELug5DJqz-qO4Cof07g",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0071.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Lv3OB1aGi_qR4I8FlqXJcX60Z_SWKHIF",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0078.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1XQEf6Xep7TnZA-pUdfZaUsarbdspXFZ1",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0029.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1q0PHVFAglPXpQJKW9fj0X48ipFnxTwe-",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0030.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "12z8SVkCGlYqGd8qYcG9ENzctsHu2BICx",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0079.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Md6ysYZvYM8syle_ocEffbvUPm_HgJFz",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0006.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
     ],
@@ -150,67 +150,67 @@ const PROJECTS = [
     ID: "grt-templebay",
     TITLE: "GRT Temple Bay",
     LOCATION: "Mahabalipuram, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1eQC72ovsGkDKiCL-UODvDkBQWwh3g6er",
+    BANNER_IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0013.jpg"),
     DESCRIPTION: "Bar, boardroom, cottages and suite rooms.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1mEM5Mqa1VmnKzT2XHAu7PpcmuJ1ygYhw",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0014.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ylnyroPlwEvmQAxWIdd6j7-YYLFDL6lr",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0016.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1po80oSsxtRxI45bd1eaH55feUru1YPha",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0017.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1QhhXzYj3JYNEf3bxv-BDCDDAgkrWaD_V",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0020.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1CJVHZx9sF8WSs9pFmUAxEA7ugrz8eLRD",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0003.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1XQEf6Xep7TnZA-pUdfZaUsarbdspXFZ1",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0006.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1RzVXoryz58PFk4CaEv4j7Fk6TQ2-Xvbd",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0007.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1BKk787YjJk5lpy9hvIgRlNSMVwxo9yKG",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0008.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ge2YrhZb5xM5NR-iEc9OfNo4rH7pW6Kf",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0010.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1JUAt2yoTo3RCnXDss3bPAY8jV5DocYiy",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0027.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1A7k1SOdAZtBTRl-Z6gdM5ibZ1ZuS4qJI",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0029.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1S_lNw00aNUQUKtWYmLsV-ceNUyXCQq5-",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0032.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1fjfKscllp5tuO3Qn-JiIPS3ih_RqHNUG",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0034.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1oqUMc5Kdwoy3nsRr4pO1ZuyTzvK5HvBY",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0035.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1tXU2qDK5jbhbtIqLnM1B12e-_AvhMGRH",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0013.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
     ],
@@ -219,35 +219,35 @@ const PROJECTS = [
     ID: "itc-royalbengal",
     TITLE: "ITC Royal Bengal",
     LOCATION: "Kolkata, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "10PzXFjnlMuQZY1vrMkxNf-Op7PjOuZ8J",
+    BANNER_IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_172210.jpg"),
     DESCRIPTION: "80 service Apartments along with 4 floor corridors.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1MK0t5K6zqkn5pj2pnFxs4dgkkTjLb_cn",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_165754.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1MuGdNZRmndwy3JjZebvY1_IKFfkuSsAe",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_174748.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1LyPDDgeXV2RiZnc2803zmwgSkGVaxFgP",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_180208.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "19k5Y3HvUW0mPiWF2Oq8GAI_rCzv-O0b5",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_191848.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Bq9Mp8O5goFskuFPaqexxHBnlRcV45ew",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_191720.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "10PzXFjnlMuQZY1vrMkxNf-Op7PjOuZ8J",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_172210.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1cl-OE4bV3Eid61H0w03nm4v8rVplpyMb",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_194510.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
     ],
@@ -256,35 +256,31 @@ const PROJECTS = [
     ID: "tci-chennai",
     TITLE: "TCI Chennai",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
+    BANNER_IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0070.jpg"),
     DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "16kGSkBnqjJFl2_iWfzV3g8aJMHRCi9L0",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0069.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "185Xdp51BWiQ077_gxYU-QwrlE5SmMEIE",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0061.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1L4AT_OqSYU6cTOhwpG4NTn_zmjy4xmyw",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0065.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1j9utjd10mExppfws5xM7oZbRqYilhDl9",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0067.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1UnTTNoN5aWtl6L31zLm8SWMYyIUNpHoA",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0072.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1lKENPYDcR0_EJyvgSOpnIQzJHQlytIP8",
-        ALT_TEXT: "TWI CAROUSEL 04",
-      },
-      {
-        IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0070.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -293,47 +289,43 @@ const PROJECTS = [
     ID: "elken",
     TITLE: "Elken",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1iiHftbxlZCtpvBzXywsksENkr68WrfvC",
+    BANNER_IMAGE: require("../assets/images/Corporates/Elken  /IMG_0062.jpg"),
     DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1OSEkvHFjxlWwlAR2hMA9I21EA3_7INrp",
-        ALT_TEXT: "TWI CAROUSEL 01",
-      },
-      {
-        IMAGE: GOOGLE_DRIVE_URL + "1e2kn1PYMVOsr7dOIlMWsacokIzT5ZdcH",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0028.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "10lwF7bZRhtVoj1W3YstiogUPulFIpaq-",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0035.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1GH3TYZyk0WRC3JnMW7Ayvt_9Rc5DalK2",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0059.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1s-l8Q_1Ftdz1GiZ9EziuRPMMgn-NnMjN",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0038.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1kUGjDjJ5t1Rz43Cfm_NJmAs8VWBtWLU6",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0049.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ubPIPyDfJMS8YS-46jw73EYZ447fxaSW",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0050.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1PCQsIFfT-age9A8Xru5cllW4qpM4wnMZ",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0064.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "11H_1F-vhIhzzrF1MRLzU1PWcPh4rCOY_",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0060.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1iiHftbxlZCtpvBzXywsksENkr68WrfvC",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0062.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -342,51 +334,47 @@ const PROJECTS = [
     ID: "surbana-hyderabad",
     TITLE: "Surbana International",
     LOCATION: "Hyderabad, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1hm85i0YXgCIKWNjQqi5uyyaHtNrUwl4O",
+    BANNER_IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01465.jpg"),
     DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "10nMNEzpnmOLHYlRjY_jIHgglfn7stZoa",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01462.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "13yrWW7BspHo6IKVA--5P6sEuEq2KfjYg",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01466.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1NPX__V5h2m1Wqij22BDMgxYic50qg1Xz",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01469.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1yPSjM0QC0Ry3zcI2RfYmTKK0JkZQitUM",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01470.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1jKxzH9iEk1EvTq9RDZbe3Q_Aw7l9WPKk",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01475.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1LYB5ERElpwqK0gWOoMG3Vlm8V3v3IBae",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01476.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1-WdpzSxzvJomgRZvgQXdh2aplKQBaXF_",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01477.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1jV5ZapXDNfOJ7UqaX9k9rPn9aaffZ1Kf",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01482.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1dFW3pwXH7cy1s2ZPa0K4fcz-KQP_X252",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01488.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Iu6MTbA-nHC3T8twyHSOA1y-H6k0p0VM",
-        ALT_TEXT: "TWI CAROUSEL 04",
-      },
-      {
-        IMAGE: GOOGLE_DRIVE_URL + "128SHGWlQsCcqqSuiIsFgKLcDLdgPPriU",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01485.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -395,55 +383,51 @@ const PROJECTS = [
     ID: "ecosway",
     TITLE: "eCosway",
     LOCATION: "Hyderabad, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1rSARpRbREmKeQ7MtiVx6k1TrT3de0t0K",
+    BANNER_IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0090.jpg"),
     DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "13rZWwMgScF7X01wEl_KwNea4r6Vlu2Pp",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0066.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "11YtoKsct59Eb0Rjc4mEk9w7O1WGmrEgv",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0073.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1lvMu4KvPkuVBwlPYZirmwBQKzRjpJ8Kb",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0081.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "181ewHmzbBQ7l4PDl9sGzrfKXtc74CKJp",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0082.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ovG5gYUHzcwnQUaJj_5uUFgmvIs16elc",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0087.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1rSARpRbREmKeQ7MtiVx6k1TrT3de0t0K",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0090.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1-mF2V54oZf9s6BUYiqjkRS6wVDTlBxeQ",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0098.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1jvMwDooj1PXZaVHxoCO64DKk06gF31ci",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0102.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1L-S2S0EylTlyvds2bicr5mqmMfjujT20",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0106.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "18f5XLLZu1u2JkRY23WrNtsLBxOU8sKB6",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0107.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1y6ckvMtg0DQQnsyw_CiH9zrBM4Sw3Ggc",
-        ALT_TEXT: "TWI CAROUSEL 04",
-      },
-      {
-        IMAGE: GOOGLE_DRIVE_URL + "qGmNEtJ7eRcJ61slHtpOmKdntLqzGWN8",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0109.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -452,43 +436,43 @@ const PROJECTS = [
     ID: "kakatiya-hyderabad",
     TITLE: "Mission Kakatiya Office",
     LOCATION: "Hyderabad, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1aAkO5SePQVkAOetB5zD2Los9dgWSe2MO",
+    BANNER_IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01494.jpg"),
     DESCRIPTION: "Complete office space and cabins.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1lYpkZ5ffnKn6EwDMfE1AwpGNBveVH1JC",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01491.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "18RFk6ZjIzmGbjF8d_iWPcqaEAQI_OWp1",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01493.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1p45vplgYSErvR7VNPuww2waolSZq7wPq",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01497.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1fW5_Ep2iMOxqaK-XthY_RsNcSOpVdCLH",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01501.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1SJBl6IUekes-Z3gCSzSBT4CWRh8_nkz9",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01503.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1m3HCzySYGRiZbXaB3tAqzETUROHYxNL0",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01505.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1pW2HAUY-Gh3MNEBgBqDei06cW9sGdrBn",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01508.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1aAkO5SePQVkAOetB5zD2Los9dgWSe2MO",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01510.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1A1e9dIj63VWAnPKRZhfv_DV6_uDK18Ed",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01494.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -497,23 +481,23 @@ const PROJECTS = [
     ID: "westin-hyderabad",
     TITLE: "The Westin Hyderabad Mindspace",
     LOCATION: "Hyderabad, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /Bathtub.jpg"),
     DESCRIPTION: "Rooms and Suites.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1MI7d0o6Vzka6HU2ZHymUMEtZaTjJSQdS",
+        IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /bedroom.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1OD-iUS7zsiw4CYsoSMHgWTAk2Hi7KFaH",
+        IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /TVframe.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "138mczQsenmzN1HMQyTNiW8KgsDX4uvk1",
+        IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /furniture.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+        IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /Bathtub.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -522,43 +506,43 @@ const PROJECTS = [
     ID: "taj-mountroad",
     TITLE: "Taj Mount Road",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1kgneXX_FHYkclbp6Colj_zf-DX3DvqJH",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0004.jpg"),
     DESCRIPTION: "All guest rooms and suites.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1emNQkuDuJ3VjpfzHm9pgFECgOCrQIb8Z",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0029.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1xqNj-XQTQdtugQ34OdWC9zz_1USbqE47",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0017.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1qLqtPLVjDur77fOdTo14v9AmnU2p7SaM",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0056.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1JAMYmIce7Q35wb9I4GR3kLJ6jpWytJSS",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0001.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Pob8XYB1kl5frVOHzu0eoaseqsIlDMLJ",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0009.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1IpI6Zf3-xBBFabd9vSQ4wZMDVrEYimOX",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0047.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1wg6YGGU_DOLn0yjx3dsA-LoBan6I00fv",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0094.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1iEwLf1AlLazdbabi7lJ4b8pv89IzzP0A",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0074.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1D3NXcewSlla3Me9HP-buMyoHIzW-nqH4",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0012.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -567,51 +551,51 @@ const PROJECTS = [
     ID: "taj-clubhouse",
     TITLE: "Taj Club House",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2884.jpg"),
     DESCRIPTION: "All guest rooms and suites.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1qWJ-9YitMtYtjT4TvxrZfTk0HSx-qSHf",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2895.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "15tTdnn1R63lJ8lhdOPOIITuaWPYc5G6X",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2898.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "17SqsnD0r-sBI3IMoEDHpGa5iiHWDmpZv",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2887.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ceoTKHiFai8LICYMDbTbcSO_G446M9dX",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2881.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1zyloQ4T5DvSCpmlseALOlUCJj74soyRG",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2900.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "11VIOoxiw_lVZuVDbAOgxMocYdAZwgz1I",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2902.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1aJzW7bFunMJwHpg-gWSM6ePIlit_wkGq",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2905.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1B5GUNuxYP8_yfQYN9qiD-KfCti3qeybg",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2913.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1aRGP2tiYYveLLZMPV38dJCbCKdbCUT-i",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2917.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "109-WOgkDLwoVu3rkhvNmtFA6Kb9gjXQ4",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC00061.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1w7mX4xYXKEiHZ9PV4nsMa4NZS0-orfRv",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2884.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -620,35 +604,35 @@ const PROJECTS = [
     ID: "itc-welcomhotel-bangalore",
     TITLE: "ITC Welcomhotel",
     LOCATION: "Bangalore, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1EtbjD7PvRYIAuMuJTM4jgZXYj4ZxN0zn",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20151231455.jpg"),
     DESCRIPTION: "All Public Areas such as restaurant, lobby and cafe.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1oCr9kGXw-AOPnx8N-Hd09TuY5hA1d_gW",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20151231419.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1e0QtZSO6ka1c7mFaBM-NAMsW5kW7lgFh",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /2016118122096-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1buZTuCOxy6jWpzueNm7MeqlVom9O6m7t",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /2016118124548-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1W0GrNTlFp4WEalx1FEmwHE5PfYFJgjPj",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /2016118129891-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1dbJ_VVDcAfvChV3Nkj7UHkhSy9AXLSyl",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20161181253743-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Vg795N7SkijSCNVGAlG1lCR4sM9nWrVS",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20161251436352-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1VL5e3zAe8sMoF2lJEES5q_BqoPFZHFfh",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20161251446149-46.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -657,23 +641,23 @@ const PROJECTS = [
     ID: "novotel-sipcot",
     TITLE: "Novotel Sipcot",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+    BANNER_IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot01.jpg"),
     DESCRIPTION: "All Guest Rooms.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1142ULwiRQOlAXLnQaaNiNeMul-UjfG_z",
+        IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot02.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+        IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot01.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1mtlzyNXdgnBCEgE8_hoZJXFLbFNoDzs9",
+        IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot03.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1zv648eeCeBEG-2MDUItGD2wv4H2qXwyn",
+        IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot04.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],
@@ -682,35 +666,35 @@ const PROJECTS = [
     ID: "trident-chennai",
     TITLE: "The Trident",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: GOOGLE_DRIVE_URL + "1uQjlv1oZFbO98svYhqISOqkvz0k1f5nH",
+    BANNER_IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0332.jpg"),
     DESCRIPTION: "Samumudra Resturant and gym.",
     IMAGES: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1HU6YLbEtLxW8LsKkNOcTMX_3hgh4dfQ5",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0329.jpg"),
         ALT_TEXT: "TWI CAROUSEL 01",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1ivhcgLDpoPtgsEVokqztUp4xUFAXWtgS",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0336.jpg"),
         ALT_TEXT: "TWI CAROUSEL 02",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1-OETmxPNyjW50E0pkcLe4KLYf5f9vW7v",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0344_1.jpg"),
         ALT_TEXT: "TWI CAROUSEL 03",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1hx2wjiWWytNtybcekawA7NitXnVdw8f5",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0347.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1qFLqp8X4Za-e3bWYJdKxGDIHBU1lnaWA",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0350.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1gl4xJsoW3w63JHMH9cFLaDiZJHmWYkuv",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN03391.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1CL-d7BMMG86ax-bVYZA2zNwbnzLIDZ12",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN03401.jpg"),
         ALT_TEXT: "TWI CAROUSEL 04",
       },
     ],

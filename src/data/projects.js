@@ -510,7 +510,7 @@ const PROJECTS = [
     ID: "taj-mountroad",
     TITLE: "Taj Mount Road",
     LOCATION: "Chennai, India",
-    BANNER_IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0017.jpg"),
+    BANNER_IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0004.jpg"),
     DESCRIPTION: "All guest rooms and suites.",
     IMAGES: [
       {

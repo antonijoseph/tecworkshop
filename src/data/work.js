@@ -97,7 +97,7 @@ const WORK_CATEGORIES = {
       {
         TITLE: "Taj Mount Road",
         DESCRIPTION:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "A strikingly contemporary business hotel with 220 rooms including 16 suites, located in Chennai.",
         IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0017.jpg"),
         LINK: "/work/hospitality/taj-mountroad",
       },

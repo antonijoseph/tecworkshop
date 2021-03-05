@@ -1,4 +1,4 @@
-import { GOOGLE_DRIVE_URL } from "../constants";
+//import { GOOGLE_DRIVE_URL } from "../constants";
 
 const WORK_CATEGORIES = {
   HOSPITALITY: {
@@ -14,7 +14,8 @@ const WORK_CATEGORIES = {
       {
         TITLE: "Heritage",
         IMAGE: require("../assets/images/Heritage_Hospitality.png"),
-        DESCRIPTION: "An irreplaceable source of creativity and inspiration for us.",
+        DESCRIPTION:
+          "An irreplaceable source of creativity and inspiration for us.",
       },
       {
         TITLE: "Grandeur",
@@ -29,14 +30,14 @@ const WORK_CATEGORIES = {
     ],
     FEATURED_PROJECTS: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1iokcCixWeq7xP4kolyXZhGmz0Jf9kGTH",
+        IMAGE: require("../assets/images/Hospitality/JW Marriot Mumbai  /JW-marriot01.jpg"),
         TITLE: "JW MARRIOTT",
         DESCRIPTION:
           "JW Marriott Mumbai Sahar, a 5-star luxury hotel located in Andheri East. The hotel houses 588 rooms and offers a melange of facilities from dining to spaces to conduct social gatherings such as weddings. ",
         LINK: "/work/hospitality/jw-marriott-mumbai",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1eILGuZZD1iWWEoYwBtR-gUi2Xn6de67Q",
+        IMAGE: require("../assets/images/Hospitality/Westin Chennai  /westinchennai01.jpg"),
         TITLE: "The Westin Chennai",
         DESCRIPTION:
           "This luxury hotel is centerally located in one of the city's developing commercial areas. The Westin Chennai has 215 beautifully-appointed guest rooms and suites ensure relaxing stays in pleasant surroundings.",
@@ -48,63 +49,63 @@ const WORK_CATEGORIES = {
         TITLE: "Taj Coromandel",
         DESCRIPTION:
           "With 212 rooms and suites, the Taj Coromandel is one of the best 5-star hotels in Chennai, that presents an urban oasis of bespoke experiences for every guests.",
-        IMAGE: GOOGLE_DRIVE_URL + "1FzwdgUc5XgMJbuFWEhHEq87LKz4XOJ0l",
+        IMAGE: require("../assets/images/Hospitality/Taj Coromandel Chennai/DSC_0068.jpg"),
         LINK: "/work/hospitality/taj-coromandel",
       },
       {
         TITLE: "GRT Temple Bay",
         DESCRIPTION:
           "Situated just steps away from the shore, Temple Bay is set on 44 acres of lush landscpaced gardens.",
-        IMAGE: GOOGLE_DRIVE_URL + "1eQC72ovsGkDKiCL-UODvDkBQWwh3g6er",
+        IMAGE: require("../assets/images/Hospitality/GRT Temple Bay/DSCF0013.jpg"),
         LINK: "/work/hospitality/grt-templebay",
       },
       {
         TITLE: "ITC Royal Bengal",
         DESCRIPTION:
           "One of a Kind ITC Royal Bengal is an ode to the region’s cultural heritage and lineage. The hotel houses 456 rooms and 6 dining destinations.",
-        IMAGE: GOOGLE_DRIVE_URL + "10PzXFjnlMuQZY1vrMkxNf-Op7PjOuZ8J",
+        IMAGE: require("../assets/images/Hospitality/ITC Royal Bengal (Kolkata)/LRM_EXPORT_20190829_172210.jpg"),
         LINK: "/work/hospitality/itc-royalbengal",
       },
       {
         TITLE: "Taj Club House",
         DESCRIPTION:
           "A strikingly contemporary business hotel with 220 rooms including 16 suites, located in Chennai.",
-        IMAGE: GOOGLE_DRIVE_URL + "1wkBezFr6WSQMQNNKcYt4xF58eAr2imeK",
+        IMAGE: require("../assets/images/Hospitality/Taj GVK/DSC_2884.jpg"),
         LINK: "/work/hospitality/taj-clubhouse",
       },
       {
         TITLE: "ITC Welcomhotel",
         DESCRIPTION:
           "From contemporary interiors to exquisite fine dining to a rejuvenating spa, ITC Welcomhotel offers a unique experience and comfortable stay.",
-        IMAGE: GOOGLE_DRIVE_URL + "1EtbjD7PvRYIAuMuJTM4jgZXYj4ZxN0zn",
+        IMAGE: require("../assets/images/Hospitality/Fortune Bangalore  /20151231455.jpg"),
         LINK: "/work/hospitality/itc-welcomhotel-bangalore",
       },
       {
         TITLE: "Novotel Sipcot",
         DESCRIPTION:
           "Belonging to the Accor international group of hotels, Novotel offers 180 guest rooms and suites.",
-        IMAGE: GOOGLE_DRIVE_URL + "1tkHWwhGSwTV5hLxi0MOUFrwZl0X5VZWW",
+        IMAGE: require("../assets/images/Hospitality/Novotel sipcot  /NovotelSipcot01.jpg"),
         LINK: "/work/hospitality/novotel-sipcot",
       },
       {
         TITLE: "The Trident",
         DESCRIPTION:
           "A luxury hotel with 167 rooms that are tastefully appointed in muted and earthy tones, combined with handcrafted furniture and convenient amenities.",
-        IMAGE: GOOGLE_DRIVE_URL + "1uQjlv1oZFbO98svYhqISOqkvz0k1f5nH",
+        IMAGE: require("../assets/images/Hospitality/The Trident/DSCN0332.jpg"),
         LINK: "/work/hospitality/trident-chennai",
       },
       {
         TITLE: "Taj Mount Road",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: GOOGLE_DRIVE_URL + "1xqNj-XQTQdtugQ34OdWC9zz_1USbqE47",
+        IMAGE: require("../assets/images/Hospitality/Taj Mount Road/IMG_0017.jpg"),
         LINK: "/work/hospitality/taj-mountroad",
       },
       {
         TITLE: "Westin Hyderabad",
         DESCRIPTION:
           "Experience a spectacular wellness escape staycation at The Westin Hyderabad Mindspace, a 5-star accommodation where style and comfort intersect.",
-        IMAGE: GOOGLE_DRIVE_URL + "1cfs0EPfCeMY9fYof7yLmf5vU-IRrqBTO",
+        IMAGE: require("../assets/images/Hospitality/Westin Hyderabad  /Bathtub.jpg"),
         LINK: "/work/hospitality/westin-hyderabad",
       },
     ],
@@ -127,7 +128,8 @@ const WORK_CATEGORIES = {
       {
         TITLE: "Culture",
         IMAGE: require("../assets/images/Culture_Corporates.png"),
-        DESCRIPTION: "Designing spaces to relate to the emotional environment of your workplace.",
+        DESCRIPTION:
+          "Designing spaces to relate to the emotional environment of your workplace.",
       },
       {
         TITLE: "Efficiency",
@@ -137,14 +139,14 @@ const WORK_CATEGORIES = {
     ],
     FEATURED_PROJECTS: [
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1Np_14v1sxolsWbFzfKF2z5P_xA98Yzxp",
+        IMAGE: require("../assets/images/Corporates/TCI CHN  /DSCF0070.jpg"),
         TITLE: "TCI Chennai",
         DESCRIPTION:
           "Established in 1995, TCI Seaways caters to the coastal cargo requirements for transporting container and bulk cargo from Ports on the West coast to the East coast of India.",
         LINK: "/work/corporates/tci-chennai",
       },
       {
-        IMAGE: GOOGLE_DRIVE_URL + "1iiHftbxlZCtpvBzXywsksENkr68WrfvC",
+        IMAGE: require("../assets/images/Corporates/Elken  /IMG_0062.jpg"),
         TITLE: "Elken",
         DESCRIPTION:
           "Elken is one of the leading direct selling companies in Malaysia, operating across the the Asia Pacific region. Elken primarily deals with the distribution of healthcare and beauty products.",
@@ -156,21 +158,21 @@ const WORK_CATEGORIES = {
         TITLE: "Surbana International",
         DESCRIPTION:
           "Surbana is a global consultancy company that focuses on infrastructure and urban development.",
-        IMAGE: GOOGLE_DRIVE_URL + "1hm85i0YXgCIKWNjQqi5uyyaHtNrUwl4O",
+        IMAGE: require("../assets/images/Corporates/CESMA HYD  /DSC01465.jpg"),
         LINK: "/work/corporates/surbana-hyderabad",
       },
       {
         TITLE: "eCosway",
         DESCRIPTION:
           "eCosway is a rapidly growing international company based out of Kuala Lumpur, Malaysia and operates throughout Asia.",
-        IMAGE: GOOGLE_DRIVE_URL + "1rSARpRbREmKeQ7MtiVx6k1TrT3de0t0K",
+        IMAGE: require("../assets/images/Corporates/Ecosway/IMG_0090.jpg"),
         LINK: "/work/corporates/ecosway",
       },
       {
         TITLE: "Mission Kakatiya Office",
         DESCRIPTION:
           "Mission Kakatiya is a programme for restoring all the minor irrigation tanks and lakes in Telangana State, India.",
-        IMAGE: GOOGLE_DRIVE_URL + "1aAkO5SePQVkAOetB5zD2Los9dgWSe2MO",
+        IMAGE: require("../assets/images/Corporates/Kakatiya CM Off Hyd/DSC01494.jpg"),
         LINK: "/work/corporates/kakatiya-hyderabad",
       },
     ],
@@ -204,14 +206,14 @@ const WORK_CATEGORIES = {
     FEATURED_PROJECTS: [
       {
         IMAGE: require("../assets/images/coming-soon-image.jpg"),
-        TITLE: "JW MARRIOT",
+        TITLE: "Coming Soon",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         LINK: "/",
       },
       {
         IMAGE: require("../assets/images/coming-soon-image.jpg"),
-        TITLE: "JW MARRIOT",
+        TITLE: "Coming Soon",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         LINK: "/",
@@ -219,42 +221,21 @@ const WORK_CATEGORIES = {
     ],
     PROJECTS: [
       {
-        TITLE: "JW Marriott",
+        TITLE: "Coming Soon",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
-        TITLE: "JW Marriott",
+        TITLE: "Coming Soon",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         IMAGE: require("../assets/images/coming-soon-image.jpg"),
         LINK: "/",
       },
       {
-        TITLE: "JW Marriott",
-        DESCRIPTION:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/coming-soon-image.jpg"),
-        LINK: "/",
-      },
-      {
-        TITLE: "JW Marriott",
-        DESCRIPTION:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/coming-soon-image.jpg"),
-        LINK: "/",
-      },
-      {
-        TITLE: "JW Marriott",
-        DESCRIPTION:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        IMAGE: require("../assets/images/coming-soon-image.jpg"),
-        LINK: "/",
-      },
-      {
-        TITLE: "JW Marriott",
+        TITLE: "Coming Soon",
         DESCRIPTION:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         IMAGE: require("../assets/images/coming-soon-image.jpg"),

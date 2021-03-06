@@ -91,12 +91,12 @@ const Strings = {
     HOME: {
       CAROUSEL: [
         {
-          IMAGE: require("../assets/images/carousel1.jpg"),
+          IMAGE: require("../assets/images/carousel01.jpg"),
           ALT_TEXT: "Interior 1",
           DISPLAY_TEXT: ["Redefining spaces with finesse", ""],
         },
         {
-          IMAGE: require("../assets/images/carousel2.jpg"),
+          IMAGE: require("../assets/images/carousel02.jpg"),
           ALT_TEXT: "Interior 2",
           DISPLAY_TEXT: ["Desire meets design", ""],
         },

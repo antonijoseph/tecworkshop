@@ -3,7 +3,7 @@
 const WORK_CATEGORIES = {
   HOSPITALITY: {
     BANNER: {
-      IMAGE: require("../assets/images/carousel1.jpg"),
+      IMAGE: require("../assets/images/carousel01.jpg"),
       TEXT: ["Hospitality"],
     },
     OFFER: [
@@ -179,7 +179,7 @@ const WORK_CATEGORIES = {
   },
   RESIDENTIAL: {
     BANNER: {
-      IMAGE: require("../assets/images/carousel2.jpg"),
+      IMAGE: require("../assets/images/carousel02.jpg"),
       TEXT: ["Residential"],
     },
     OFFER: [

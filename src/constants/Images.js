@@ -3,7 +3,7 @@ const images = {
   PEXELS_ALEKSANDRA_PLATONOVA: require("../assets/images/pexels-aleksandra-platonova-2263510-2.jpg"),
   ERROR: require("../assets/images/404-error.jpg"),
   IMAGE_UNAVAILABLE: require("../assets/images/no-image-available.png"),
-  ABOUT_US: require("../assets/images/work.jpg"),
+  ABOUT_US: require("../assets/images/work01.jpg"),
   LOGO: require("../assets/images/TWI logo_white.png"),
   TWI_ASSETS_THREE: require("../assets/images/twi assets-03.png"),
   TWI_ASSETS_TWO: require("../assets/images/twi assets-02.png"),

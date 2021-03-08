@@ -83,25 +83,24 @@ const Footer = ({ contactUsSection }) => {
           <div className="footer-item-title">CONTACT</div>
           <div className="address">
             <div className="line">Tec Workshop Interiors India Pvt Ltd,</div>
-            <div className="line">224/1 Kamarajan Street,</div>
-            <div className="line">Mettukupam Thoraipakkam</div>
+            <div className="line">224/1 Kamarajar Street,</div>
+            <div className="line">Mettukupam Thoraipakkam,</div>
             <div className="line">Chennai (TN), India-600097</div>
           </div>
           <div className="phone">
-            <div className="line">T: 044 24329251 / 52</div>
-            <div className="line">F: 044 24329251</div>
+            <div className="line">T: +91 90804 80123</div>
             <div className="line bold-text">M: twich@twiindia.com</div>
           </div>
         </div>
-        <div className="footer-item-wrapper social-links-mobile">{renderSocialLinks()}</div>
+        <div className="footer-item-wrapper social-links-mobile">
+          {renderSocialLinks()}
+        </div>
       </section>
       <section className="copyright-section">
         <div className="copyright">
-          Copyright 2020 Tec Workshop Interiors India Pvt Ltd
+          © Copyright 2021 <b>Tec Workshop Interiors India Pvt Ltd</b>
         </div>
-        <div className="designed-by">
-          Designed by <b>TIKI TAVI</b>
-        </div>
+        <div className="designed-by">Designed by TIKI TAVI</div>
       </section>
     </div>
   );
